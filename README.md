@@ -1,4 +1,4 @@
 Step-Counter
 ============
 
-Basic step counting algorithm and test vectors
+Basic step counting algorithm and test vectors.
